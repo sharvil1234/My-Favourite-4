@@ -1,0 +1,136 @@
+html {
+    scroll-behavior
+}
+
+h1 {
+    color: white;
+    text-decoration: underline;
+    font-family: cursive;
+}
+
+
+.container {
+    background-color: darkorange;
+}
+
+
+
+#hello {
+    color: darkblue;
+    margin-top: 50px;
+}
+
+.profile {
+    font-family: cursive;
+    font-size: 40px;
+    margin-top: 10px;
+}
+
+#myimage {
+    width: 200px;
+    padding-top: 10px;
+}
+
+.navbar-inverse {
+    background-color: chartreuse;
+}
+
+#home {
+    ;
+    height: 600px;
+}
+
+h1 {
+    padding-top: 50px;
+}
+
+
+
+
+< !--Hobby-- > #hobby {
+    margin-bottom: 100px;
+}
+
+#hobby reading {
+    font-size: 40px;
+    margin-bottom: -20px;
+}
+
+.header_entrepreneur {
+    line-height: 3;
+
+}
+
+.book {
+    cursor: pointer;
+}
+
+.book hr {
+    margin-bottom: 10px;
+    height: inherit;
+}
+
+.modal-content {
+    margin-top: 100px;
+}
+
+.img_modal {
+    display: inline-block;
+}
+
+
+.p_modal {
+    margin-top: 10px;
+}
+
+.modal-body {
+    text-align: center
+}
+
+.img-responsive {
+    height: 230px;
+    width: 130px;
+}
+
+
+#harrypotter:hover {
+    transform: scale(0.9)
+}
+
+#geronimostilton:hover {
+
+    transform: scale(0.9)
+}
+
+#famousfive:hover {
+    transform: scale(0.9)
+}
+
+#zacpower:hover {
+    transform: scale(0.9)
+}
+
+.text-primary {
+    font-size: 20px;
+}
+
+
+< !--inspiration-- > #inspiration {}
+
+.parallax-container {
+    margin-top: 200px;
+    padding-bottom: 200px;
+}
+
+#stephen {
+    height: 300px;
+    width: 400px;
+    margin-bottom: 50px;
+    margin-top: -150px;
+
+}
+
+#myemail {
+    margin-top: -100px;
+    font-size: 30px;
+}
